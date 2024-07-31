@@ -44,7 +44,17 @@ I'm open to collaborating on projects that:
 You can reach me via:
 - Email: yhodamaru@gmail.com
 - GitHub: [@yhodamaru](https://github.com/yhodamaru)
-- Instragram: [@yhodamaru](https://instagram.com/yhodamaru)
+-  Instragram: [@yhodamaru](https://instagram.com/yhodamaru)
+
+
+##  My GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhodamaruu&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhodamaruu&layout=compact&theme=radical)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/yhodamaruu/yhodamaruu)
+
+
 
 ## About Me
 I'm always excited to learn new things and take on challenges. I love working on projects that have a real-world impact, whether it's through education, business, or innovative technology solutions.
