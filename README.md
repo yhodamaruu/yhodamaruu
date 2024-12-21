@@ -1,6 +1,6 @@
 # Hi, I’m @yhodamaru
 
-I'm passionate about becoming a top developer and entrepreneur, with the goal of creating innovative applications and services.
+I'm passionate about becoming a top developer and entrepreneur.
 
 ### Programming Languages I Know
 
