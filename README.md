@@ -52,7 +52,6 @@ You can reach me via:
 ## My GitHub Stats
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhodamaruu&layout=compact&theme=dark)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yhodamaruu/yhodamaruu?style=flat-square&color=white&label=Last%20commit)
 
