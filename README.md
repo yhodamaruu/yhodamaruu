@@ -51,7 +51,6 @@ You can reach me via:
 
 ## My GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhodamaruu&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhodamaruu&layout=compact&theme=dark)
 
