@@ -1,6 +1,6 @@
-# Hi, I’m @yhodamaru
+# Hi, I’m thatguy
 
-I'm passionate about becoming a top developer and entrepreneur.
+I'm passionate about codes.
 
 ### Programming Languages I Know
 
@@ -25,35 +25,7 @@ I'm passionate about becoming a top developer and entrepreneur.
 ![Android](https://img.shields.io/badge/-Android-000000?&logo=Android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?&logo=Firebase&logoColor=white)
 
-## Interests
-I'm interested in a wide range of topics including:
-- Web and mobile development
-- User experience design
-- Entrepreneurship and business development
-- Cutting-edge technologies and frameworks
-
-## Learning
-I'm currently focused on advancing my skills in:
-- Web development frameworks like React and Vue.js
-- Mobile app development with React Native and Flutter
-
-## Collaboration
-I'm open to collaborating on projects that:
-- Improve user experiences in digital products
-- Support local businesses through technology
-- Develop platforms for education and e-commerce
-
-## Contact
-You can reach me via:
-- Email: yhodamaru@gmail.com
-- GitHub: [@yhodamaru](https://github.com/yhodamaru)
-- Instagram: [@yhodamaru](https://instagram.com/yhodamaru)
-
 ## My GitHub Stats
-
-
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yhodamaruu/yhodamaruu?style=flat-square&color=white&label=Last%20commit)
 
-## About Me
-I'm always excited to learn new things and take on challenges. I love working on projects that have a real-world impact, whether it's through education, business, or innovative technology solutions.
