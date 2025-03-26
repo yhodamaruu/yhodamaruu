@@ -33,7 +33,7 @@ I'm passionate about codes.
 
 
 <div style="filter: grayscale(100%);">
-  <a href="https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9">
+  <a href="https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9?si=663acf5bb8094eb8">
     <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify">
   </a>
 </div>
