@@ -32,10 +32,7 @@ I'm passionate about codes.
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yhodamaruu&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="yhodamaruu" />
 
 
-<div style="filter: grayscale(100%);">
-  <a href="https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9?si=663acf5bb8094eb8">
-    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify">
-  </a>
-</div>
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9)
+
 
 
