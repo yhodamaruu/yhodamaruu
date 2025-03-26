@@ -29,3 +29,13 @@ I'm passionate about codes.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yhodamaruu/yhodamaruu?style=flat-square&color=white&label=Last%20commit)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yhodamaruu&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="yhodamaruu" />
+
+
+<div style="filter: grayscale(100%);">
+  <a href="https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9">
+    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify">
+  </a>
+</div>
+
+
