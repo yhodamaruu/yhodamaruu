@@ -33,11 +33,10 @@ I'm passionate about codes.
 
 <div style="background-color: #121212; border-radius: 12px; padding: 20px; width: 300px; text-align: center; color: #fff; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);">
   <a href="https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://i.scdn.co/image/ab67616d0000b27380fb92b53d9c0fd62b3a455b" alt="About You - The 1975" style="border-radius: 10px; width: 100%; max-width: 260px; height: auto; margin-bottom: 15px;">
+    <img src="https://i.pinimg.com/736x/8d/75/40/8d7540f9ac29ed80e09dfcf1ed697edd.jpg" alt="About You - The 1975" style="border-radius: 10px; width: 100%; max-width: 260px; height: auto; margin-bottom: 15px;">
     <h3 style="font-size: 18px; font-family: Arial, sans-serif; font-weight: bold;">About You</h3>
     <p style="font-size: 14px; font-family: Arial, sans-serif; color: #aaa;">The 1975</p>
   </a>
 </div>
-
 
 
